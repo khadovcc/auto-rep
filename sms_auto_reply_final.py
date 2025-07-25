@@ -11,7 +11,7 @@ from datetime import datetime
 # Configuration
 SERVER = "https://khadov.cc/"
 API_KEY = "c37a4065e8595adbee98ec50edd750263408fbb4"
-LINK_RELAIS = "HTTPS://LIEN-A-SPAM.COM"
+LINK_RELAIS = "HTTPS://LIEN-A-SPAM.COMm"
 STORAGE_FILE = os.path.join(os.path.dirname(__file__), 'conversations.json')
 ARCHIVE_FILE = os.path.join(os.path.dirname(__file__), 'archived_numbers.json')
 LOG_FILE = '/tmp/log.txt'
